@@ -12,5 +12,4 @@ File Sender for each lecture file. Sorry for the inconvenience.
 ## Data Management in Large-Scale Systems
 - 2020 December 9th lecture (NoSQL databases, 1h30): 
     - From Github [native (246 MB)](./data_management_2020_12_09.mp4), [compressed (132MB)](./data_management_2020_12_09_low.mp4)
-    - From Renater FileSender: [link](https://filesender.renater.fr/?s=download&token=07557e2f-c8d8-42b4-9e5e-4091d8fca86c)
-- 2020 November 25th lecture: coming soon!
+    - From Renater FileSender: [link](https://filesender.renater.fr/?s=download&token=58febc87-9637-4821-8651-7fb8f7d0935f)
